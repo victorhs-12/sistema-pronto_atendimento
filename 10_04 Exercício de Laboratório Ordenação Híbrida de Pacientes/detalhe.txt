@@ -1,0 +1,6 @@
+1. o struct paciente precisa dar uma atualizada, pois apena contém ID, Nome e idade.
+2. precisa colocar outras coisas como prioridade, horario de chegada.
+3. pro projeto em si ainda falta algumas coisas como o código para todo o processo de prioridade dos pacientes, código para uma lista
+de atendimento que adiciona e exclui pacientes da lista conforme for passando o tempo, código para recuperar
+pacientes que ja foram atendidos mas o médico pediu um retorno ou para a pessoa poder ser chamada de novo para entrar
+na lista de atendimento. 
